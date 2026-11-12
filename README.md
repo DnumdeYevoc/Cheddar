@@ -14,7 +14,7 @@ Cheddar is a budgeting app that tracks, organizes, and visualizes transactions w
 [![Watch the video](https://img.youtube.com/vi/1-4p9YdshgI/hqdefault.jpg)](https://www.youtube.com/embed/1-4p9YdshgI)
 
 ## Key Features
-- User Specific Data organization and manipulation
+- User specific Data organization and manipulation
 - Budget Planner and Visualizer
 - Transaction and Current Balance tracking
 
@@ -22,7 +22,7 @@ Cheddar is a budgeting app that tracks, organizes, and visualizes transactions w
 - Organization, manipulation, and syncing of scalable data
   - User Specific datasets
   - Plan for structure of data organization
-  - Encoded Transactions (name :: value :: transaction#)
+  - Encoded Transactions 
   - data manipulation functions ensure synchronization
 - Repetitive / lengthy to code visual layout 
   - "UI_elements" library with reusable classes
