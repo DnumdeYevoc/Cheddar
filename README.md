@@ -1,23 +1,26 @@
 
 # Cheddar
 ### Key Features
-
 - User Specific Data organization and manipulation
 - Budget Planner and Visualizer
 - Transaction and Current Balance tracking
 
 ### Project Takeaways
 #### Strengths
-- Solved a personal problem
 - New concepts learned
-  - Firebase Authentication and Cloud
+  - Firebase Cloud and Authentication
   - Flutter/ App Coding Structure and Basics
+- Solved personal budgeting problem
 
 #### Weaknesses
 - Project Fatigue/ Scope Creep
-  - Complex for a first project
   - Became bloated, minor bugs persist
-
+  - Excessive scope for limited experience 
+- Limited Exports
+  - X-code built remotely using [codemagic](codemagic.io) (I don't own a Mac)
+  - Sideloaded to bypass apple paywall (using [Iloader]([url](https://iloader.app/))
+  - Free apple certificate has to be resigned (redownloaded) every week
+  
 ## Demo Video
 [![Watch the video](https://img.youtube.com/vi/1-4p9YdshgI/hqdefault.jpg)](https://www.youtube.com/embed/1-4p9YdshgI)
 
@@ -44,11 +47,15 @@
 <img  width="242" height="524" alt="List" src="https://github.com/user-attachments/assets/ccfafaf4-c9e6-48a6-ae3d-840eae31c6aa" />
 
 
-
+### Planning
+<img width="323" height="500"  alt="IMG_8854" src="https://github.com/user-attachments/assets/ebfff1fd-b72c-4e27-af01-3bebb810e2b7" />
+<img width="323" height="500"   alt="IMG_8855" src="https://github.com/user-attachments/assets/fafdecb6-9144-48b4-a127-9ffb7c7a41b6" />
+<img width="323" height="500"   alt="IMG_8856" src="https://github.com/user-attachments/assets/ad410dbc-3eb6-4f2c-bef7-8a647bc77aa1" />
 
 
 ### Personal Usage
 <img width="323" height="699" alt="Screenshot 2026-11-11 at 9 44 40 PM" src="https://github.com/user-attachments/assets/e6d8a771-4ecc-4e85-b50a-561a0309fe18" />
 <img width="323" height="699" alt="Screenshot 2026-11-11 at 9 48 03 PM" src="https://github.com/user-attachments/assets/713f8526-34ff-4ef6-86d9-b1c294283326" />
 <img width="323" height="699" alt="Screenshot 2026-11-11 at 9 48 54 PM" src="https://github.com/user-attachments/assets/72dd9c58-5a56-4cd8-aa8d-b511539374e0" />
+
 
