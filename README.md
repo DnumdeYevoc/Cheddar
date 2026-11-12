@@ -19,7 +19,7 @@
   - Became bloated, minor bugs persist
 
 ## Demo Video
-
+[![Watch the video](https://img.youtube.com/vi/1-4p9YdshgI/hqdefault.jpg)](https://www.youtube.com/embed/1-4p9YdshgI)
 
 ## Screenshots
 <img width="600" height="250" alt="image" src="https://github.com/user-attachments/assets/9ddd371c-f8b9-44ce-9ef3-4da8d573152d" />
