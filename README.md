@@ -19,29 +19,16 @@ Cheddar is a budgeting app that tracks, organizes, and visualizes transactions w
 - Transaction and Current Balance tracking
 
 ## Main Challanges Overcome
-- Organization, manipulation, and syncing of scalable data
+- Organization and storage of data
+  - Data organization planning
+  - Firebase cloud databas
   - User Specific datasets
-  - Plan for structure of data organization
+- Syncing data
   - Encoded Transactions 
-  - data manipulation functions ensure synchronization
-- Repetitive / lengthy to code visual layout 
+  - Flutter's Provider class for live updates
+  - Hard coded data manipulation functions
+- Repetitive visual layout 
   - "UI_elements" library with reusable classes
-
-## Project Takeaways
-#### Highlights
-- Solved personal budgeting problem
-- New concepts learned
-  - Firebase Cloud and Authentication
-  - Flutter/ App Coding Structure and Basics
-  
-#### Drawbacks
-- Project Fatigue/ Scope Creep
-  - Became bloated, minor bugs persist
-  - Excessive scope for limited experience 
-- Limited Exports
-  - X-code built remotely using [codemagic](codemagic.io) (I don't own a Mac)
-  - Sideloaded to bypass apple paywall (using [Iloader]([url](https://iloader.app/))
-  - Free apple certificate has to be resigned (redownloaded) every week
 
 ## Screenshots
 ### Main Pages
@@ -75,4 +62,19 @@ Cheddar is a budgeting app that tracks, organizes, and visualizes transactions w
 <img width="323" height="699" alt="Screenshot 2026-11-11 at 9 48 03 PM" src="https://github.com/user-attachments/assets/713f8526-34ff-4ef6-86d9-b1c294283326" />
 <img width="323" height="699" alt="Screenshot 2026-11-11 at 9 48 54 PM" src="https://github.com/user-attachments/assets/72dd9c58-5a56-4cd8-aa8d-b511539374e0" />
 
+## Project Takeaways
+#### Highlights
+- Solved personal budgeting problem
+- New concepts learned
+  - Firebase Cloud and Authentication
+  - Flutter/ App Coding Structure and Basics
+  
+#### Drawbacks
+- Project Fatigue/ Scope Creep
+  - Became bloated, minor bugs persist
+  - Excessive scope for limited experience 
+- Limited Exports
+  - X-code built remotely using [codemagic](codemagic.io) (I don't own a Mac)
+  - Sideloaded to bypass apple paywall (using [Iloader]([url](https://iloader.app/))
+  - Free apple certificate has to be resigned (redownloaded) every week
 
