@@ -23,8 +23,8 @@ Cheddar is a budgeting app that tracks, organizes, and visualizes transactions w
   - Data organization planning
   - Firebase cloud databas
   - User Specific datasets
-- Syncing data
-  - Encoded Transactions 
+  - Encoded Transactions
+- Syncing data 
   - Flutter's Provider class for live updates
   - Hard coded data manipulation functions
 - Repetitive visual layout 
