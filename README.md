@@ -30,6 +30,23 @@ Cheddar is a budgeting app that tracks, organizes, and visualizes transactions w
 - Repetitive visual layout 
   - "UI_elements" library with reusable classes
 
+## Project Takeaways
+#### Highlights
+- Solved personal budgeting problem
+- New concepts learned
+  - Firebase Cloud and Authentication
+  - Flutter/ App Coding Structure and Basics
+  
+#### Drawbacks
+- Project Fatigue/ Scope Creep
+  - Became bloated, minor bugs persist
+  - Excessive scope for limited experience 
+- Limited Exports
+  - X-code built remotely using [codemagic](codemagic.io) (I don't own a Mac)
+  - Sideloaded to bypass apple paywall (using [Iloader]([url](https://iloader.app/))
+  - Free apple certificate has to be resigned (redownloaded) every week
+
+
 ## Screenshots
 ### Main Pages
 <img width="242" height="524" alt="Screenshot 2026-11-11 at 10 08 34 PM" src="https://github.com/user-attachments/assets/a67e201d-28ae-4f25-a287-73374a34a8fc" />
@@ -61,20 +78,3 @@ Cheddar is a budgeting app that tracks, organizes, and visualizes transactions w
 <img width="323" height="699" alt="Screenshot 2026-11-11 at 9 44 40 PM" src="https://github.com/user-attachments/assets/e6d8a771-4ecc-4e85-b50a-561a0309fe18" />
 <img width="323" height="699" alt="Screenshot 2026-11-11 at 9 48 03 PM" src="https://github.com/user-attachments/assets/713f8526-34ff-4ef6-86d9-b1c294283326" />
 <img width="323" height="699" alt="Screenshot 2026-11-11 at 9 48 54 PM" src="https://github.com/user-attachments/assets/72dd9c58-5a56-4cd8-aa8d-b511539374e0" />
-
-## Project Takeaways
-#### Highlights
-- Solved personal budgeting problem
-- New concepts learned
-  - Firebase Cloud and Authentication
-  - Flutter/ App Coding Structure and Basics
-  
-#### Drawbacks
-- Project Fatigue/ Scope Creep
-  - Became bloated, minor bugs persist
-  - Excessive scope for limited experience 
-- Limited Exports
-  - X-code built remotely using [codemagic](codemagic.io) (I don't own a Mac)
-  - Sideloaded to bypass apple paywall (using [Iloader]([url](https://iloader.app/))
-  - Free apple certificate has to be resigned (redownloaded) every week
-
